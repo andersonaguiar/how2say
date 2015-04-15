@@ -1,0 +1,14 @@
+{
+  "name": "how2say",
+  "description": "how2say",
+  "version": "0.0.1",
+  "title": "how2say",
+  "devDependencies": {
+
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "dependencies": {}
+}
